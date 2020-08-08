@@ -21,9 +21,23 @@
 
 <br />
 
+<div><p>Projetos: </p></div>
+
 <div><p>Visão geral do meu perfil: </p></div>
 
 ![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=Gabrieloczust&show_icons=true)
+
+<br />
+
+<div><p>Projetos: </p></div>
+
+[![ReadMe Card](https://github.com/Gabrieloczust/nelsonreformas)](https://gabrieloczust.github.io/nelsonreformas/)
+[![ReadMe Card](https://github.com/Gabrieloczust/advogada)](https://gabrieloczust.github.io/advogada/)
+[![ReadMe Card](https://github.com/Gabrieloczust/pizzaria-javascript](https://gabrieloczust.github.io/pizzaria-javascript/)
+[![ReadMe Card](https://github.com/Gabrieloczust/be-the-hero](https://github.com/Gabrieloczust/be-the-hero)
+[![ReadMe Card](https://github.com/Gabrieloczust/e-commerce-laravel](https://github.com/Gabrieloczust/e-commerce-laravel)
+[![ReadMe Card](https://github.com/Gabrieloczust/facebook](https://github.com/Gabrieloczust/facebook)
+
 <br />
 <br />
 
