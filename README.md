@@ -34,9 +34,8 @@
 
 <div><p>Visão geral do meu perfil: </p></div>
 
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=Gabrieloczust&show_icons=true)
+![Gabriel github stats](https://github-readme-stats.vercel.app/api?username=Gabrieloczust&show_icons=true)
 
 <br />
-<br />
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Gabrieloczust)
+ ![visitas](https://visitor-badge.laobi.icu/badge?page_id=Gabrieloczust)
