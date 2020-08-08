@@ -1,5 +1,7 @@
 ### Olá 👋, Eu sou Gabriel Oczust
 
+<br />
+
 <a href="https://www.linkedin.com/in/gabrieloczust/">
   <img align="left" alt="Gabriel Oczust LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -11,9 +13,9 @@
 </a>
 
 <br />
+<br />
 
 **Linguagens e Tecnologias:**  
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
