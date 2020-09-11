@@ -23,10 +23,10 @@
 
 <div><p>Projetos: </p></div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=proffy-server)](https://gabrieloczust.github.io/proffy-server/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=proffy-web)](https://gabrieloczust.github.io/proffy-web/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=nelsonreformas)](https://gabrieloczust.github.io/nelsonreformas/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=advogada)](https://gabrieloczust.github.io/advogada/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=proffy-server)](https://github.com/Gabrieloczust/proffy-server)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=proffy-web)](https://github.com/Gabrieloczust/proffy-web)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=pizzaria-javascript)](https://gabrieloczust.github.io/pizzaria-javascript/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=be-the-hero)](https://github.com/Gabrieloczust/be-the-hero)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=e-commerce-laravel)](https://github.com/Gabrieloczust/e-commerce-laravel)
