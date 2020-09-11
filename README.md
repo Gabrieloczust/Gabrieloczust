@@ -23,6 +23,8 @@
 
 <div><p>Projetos: </p></div>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=proffy-server)](https://gabrieloczust.github.io/proffy-server/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=proffy-web)](https://gabrieloczust.github.io/proffy-web/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=nelsonreformas)](https://gabrieloczust.github.io/nelsonreformas/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=advogada)](https://gabrieloczust.github.io/advogada/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=pizzaria-javascript)](https://gabrieloczust.github.io/pizzaria-javascript/)
