@@ -22,13 +22,13 @@
 
 <br />
 
-<div><p>Projects: </p></div>
+<div><p>Main Projects: </p></div>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=react-countries)](https://github.com/Gabrieloczust/react-countries)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=react-redux)](https://github.com/Gabrieloczust/react-redux)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=advogada)](https://gabrieloczust.github.io/advogada/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=pizzaria-javascript)](https://gabrieloczust.github.io/pizzaria-javascript/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=be-the-hero)](https://github.com/Gabrieloczust/be-the-hero)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=proffy-server)](https://github.com/Gabrieloczust/proffy-server)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=proffy-web)](https://github.com/Gabrieloczust/proffy-web)
 
 <br />
