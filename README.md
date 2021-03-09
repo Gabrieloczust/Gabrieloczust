@@ -27,7 +27,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=react-countries)](https://github.com/Gabrieloczust/react-countries)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=react-redux)](https://github.com/Gabrieloczust/react-redux)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=react-to-do)](https://github.com/Gabrieloczust/react-to-do/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=pizzaria-javascript)](https://github.com/Gabrieloczust/pizzaria-javascript/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=javascript-pizzeria-cart)](https://github.com/Gabrieloczust/javascript-pizzeria-cart/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=be-the-hero)](https://github.com/Gabrieloczust/be-the-hero)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=proffy-web)](https://github.com/Gabrieloczust/proffy-web)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=jack-despachante)](https://github.com/Gabrieloczust/jack-despachante)
