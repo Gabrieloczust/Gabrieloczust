@@ -30,7 +30,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=javascript-pizzeria-cart)](https://github.com/Gabrieloczust/javascript-pizzeria-cart/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=be-the-hero)](https://github.com/Gabrieloczust/be-the-hero)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=proffy-web)](https://github.com/Gabrieloczust/proffy-web)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=jack-despachante)](https://github.com/Gabrieloczust/jack-despachante)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=next-corporate-jack)](https://github.com/Gabrieloczust/next-corporate-jack)
 
 
 <br />
