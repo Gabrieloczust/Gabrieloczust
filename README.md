@@ -27,7 +27,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=react-redux)](https://github.com/Gabrieloczust/react-redux)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=react-to-do)](https://github.com/Gabrieloczust/react-to-do/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=react-my-money)](https://github.com/Gabrieloczust/react-my-money/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=next-corporate-jack)](https://github.com/Gabrieloczust/next-corporate-jack)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=quiz-game)](https://github.com/Gabrieloczust/quiz-game)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=javascript-pizzeria-cart)](https://github.com/Gabrieloczust/javascript-pizzeria-cart/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=be-the-hero)](https://github.com/Gabrieloczust/be-the-hero)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=proffy-web)](https://github.com/Gabrieloczust/proffy-web)
