@@ -29,10 +29,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=reactjs-quiz-game)](https://github.com/Gabrieloczust/reactjs-quiz-game)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=vanillajs-pizzeria-cart)](https://github.com/Gabrieloczust/vanillajs-pizzeria-cart/)
 
-#### My profile overview:
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gabrieloczust&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&text_color=8b949e&icon_color=8b949e&bg_color=0d1117&theme=dracula">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieloczust&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=8b949e&icon_color=8b949e&bg_color=0d1117&theme=dracula">
 
 ![visitas](https://visitor-badge.laobi.icu/badge?page_id=Gabrieloczust)
