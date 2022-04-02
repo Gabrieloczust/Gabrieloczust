@@ -18,6 +18,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=flat&logo=GraphQL&logoColor=E10098)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-000?style=flat&logo=gitlab)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
