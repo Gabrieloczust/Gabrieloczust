@@ -22,7 +22,7 @@
 <div><p>Main Projects: </p></div>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=bayon-snippets)](https://github.com/Gabrieloczust/bayon-snippets/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=react-my-money)](https://github.com/Gabrieloczust/react-my-money/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=reactjs-my-money)](https://github.com/Gabrieloczust/reactjs-my-money/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=reactjs-quiz-game)](https://github.com/Gabrieloczust/reactjs-quiz-game)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=vanillajs-pizzeria-cart)](https://github.com/Gabrieloczust/vanillajs-pizzeria-cart/)
 
