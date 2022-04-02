@@ -1,21 +1,25 @@
 # <p>Hi There 👋, I'm Gabriel Oczust</p> <a href="mailto:gabriel.oczust@gmail.com"><img align="left" alt="Gabriel Oczust Facebook" src="https://img.shields.io/badge/Email-%234285F4.svg?&style=flat-square&logo=gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/gabrieloczust/"><img align="left" alt="Gabriel Oczust LinkdeIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
 
 <br />
-<br />
-<br />
 
 <div><p>Main Technologies: </p></div>
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="35" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=TypeScript&logoColor=3178C6$color=0d1117)&nbsp;
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)&nbsp;
+![Next](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-000?style=flat&logo=angular)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-000?style=flat&logo=react)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-000?style=flat&logo=Jest&logoColor=C21325)&nbsp;
+![Testing Library](https://img.shields.io/badge/-Testing%20Library-000?style=flat&logo=testing-library&logoColor=E33332)&nbsp;
+![Storybook](https://img.shields.io/badge/-Storybook-000?style=flat&logo=Storybook&logoColor=FF4785)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=flat&logo=GraphQL&logoColor=E10098)&nbsp;
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br />
 
@@ -26,13 +30,16 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=reactjs-quiz-game)](https://github.com/Gabrieloczust/reactjs-quiz-game)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=vanillajs-pizzeria-cart)](https://github.com/Gabrieloczust/vanillajs-pizzeria-cart/)
 
-
 <br />
 
 <div><p>My profile overview: </p></div>
 
-![Gabriel github stats](https://github-readme-stats.vercel.app/api?username=Gabrieloczust&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Gabrieloczust&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&text_color=8b949e&icon_color=8b949e&bg_color=0d1117&theme=dracula">
 
 <br />
 
- ![visitas](https://visitor-badge.laobi.icu/badge?page_id=Gabrieloczust)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieloczust&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=8b949e&icon_color=8b949e&bg_color=0d1117&theme=dracula">
+
+<br />
+
+![visitas](https://visitor-badge.laobi.icu/badge?page_id=Gabrieloczust)
