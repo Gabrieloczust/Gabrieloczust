@@ -8,7 +8,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=TypeScript&logoColor=3178C6$color=0d1117)&nbsp;
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)&nbsp;
 ![Next](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-000?style=flat&logo=angular)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-000?style=flat&logo=angular&logoColor=C21325)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-000?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
