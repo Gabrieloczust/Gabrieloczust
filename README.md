@@ -1,4 +1,4 @@
-# <p>Hi There 👋, I'm Gabriel Oczust</p> <a href="mailto:gabriel.oczust@gmail.com"><img align="left" alt="Gabriel Oczust Facebook" src="https://img.shields.io/badge/Email-%234285F4.svg?&style=flat-square&logo=gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/gabrieloczust/"><img align="left" alt="Gabriel Oczust LinkdeIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
+# <p>Hi There 👋, I'm Gabriel Oczust</p> <a href="mailto:gabriel.oczust@gmail.com"><img align="left" alt="Gabriel Oczust Facebook" src="https://img.shields.io/badge/Email-%234285F4.svg?&style=flat-square&logo=gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/gabrieloczust/" target="_blank"><img align="left" alt="Gabriel Oczust LinkdeIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
 
 <br />
 
