@@ -2,7 +2,7 @@
 
 <br />
 
-<div><p>Main Technologies: </p></div>
+#### Main Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=TypeScript&logoColor=3178C6$color=0d1117)&nbsp;
@@ -21,25 +21,17 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br />
-
-<div><p>Main Projects: </p></div>
+#### Main Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=bayon-snippets)](https://github.com/Gabrieloczust/bayon-snippets/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=reactjs-my-money)](https://github.com/Gabrieloczust/reactjs-my-money/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=reactjs-quiz-game)](https://github.com/Gabrieloczust/reactjs-quiz-game)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=vanillajs-pizzeria-cart)](https://github.com/Gabrieloczust/vanillajs-pizzeria-cart/)
 
-<br />
-
-<div><p>My profile overview: </p></div>
+#### My profile overview:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Gabrieloczust&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&text_color=8b949e&icon_color=8b949e&bg_color=0d1117&theme=dracula">
 
-<br />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieloczust&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=8b949e&icon_color=8b949e&bg_color=0d1117&theme=dracula">
-
-<br />
 
 ![visitas](https://visitor-badge.laobi.icu/badge?page_id=Gabrieloczust)
