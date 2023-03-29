@@ -24,6 +24,13 @@
 
 #### Main Projects
 
+- [Vidraçaria](https://www.exclusivavidros.com.br/)
+- [Despachante de Armas](https://www.jackelineoczust.com.br/)
+- [Assessoria e Treinamentos](https://www.engsegengenharia.com.br/)
+- [Serralheria](https://www.ironserralheria.com.br/)
+
+#### Main Repositories
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=bayon-snippets)](https://github.com/Gabrieloczust/bayon-snippets/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=reactjs-my-money)](https://github.com/Gabrieloczust/reactjs-my-money/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrieloczust&repo=reactjs-quiz-game)](https://github.com/Gabrieloczust/reactjs-quiz-game)
