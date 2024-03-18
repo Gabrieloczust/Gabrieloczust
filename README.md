@@ -27,7 +27,6 @@
 - [Vidraçaria](https://www.exclusivavidros.com.br/)
 - [Despachante de Armas](https://www.jackelineoczust.com.br/)
 - [Assessoria e Treinamentos](https://www.engsegengenharia.com.br/)
-- [Serralheria](https://www.ironserralheria.com.br/)
 
 #### Main Repositories
 
